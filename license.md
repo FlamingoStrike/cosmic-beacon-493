@@ -129,4 +129,4 @@ The green button in the Quick Start section.
 
 > 🛟 **Still stuck?** Open an issue and include your OS and the steps you tried — the guide above solves 9 out of 10 problems.
 
-*cosmic-beacon-493 · Updated 2026-10-09 · Shared under the MIT License*
+*cosmic-beacon-493 · Updated 2026-10-10 · Shared under the MIT License*
